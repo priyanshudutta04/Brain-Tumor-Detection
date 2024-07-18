@@ -2,7 +2,7 @@
 
 Brain Tumor Detection using CNN
 
-<img src="https://pub.mdpi-res.com/biomedicines/biomedicines-11-00364/article_deploy/html/images/biomedicines-11-00364-g003.png?1676276796">
+<img src="https://raw.githubusercontent.com/priyanshudutta04/priyanshudutta04/main/git%20images/brain-tumor.jpeg">
 
 ## About
 
@@ -20,7 +20,7 @@ Dataset Source Link: [kaggle dataset](https://www.kaggle.com/datasets/navoneel/b
 
 1. Clone the repository
 ```
-git clone https://github.com/priyanshudutta04/Cats-Vs-Dogs.git
+git clone https://github.com/priyanshudutta04/Brain-Tumor-Detection.git
 ```
 
 2. Install dependencies
