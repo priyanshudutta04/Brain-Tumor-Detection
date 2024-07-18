@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+opencv-python
+keras
+tensorflow-gpu==2.0.0
